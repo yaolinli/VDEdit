@@ -1,0 +1,60 @@
+# global_len_dele 20
+# global_len_add 20
+# global_attr_add 20
+# global_attr_dele 20
+# local_len_add 20
+# local_len_dele 20
+# local_attr_add 20
+# all 140
+==========================================
+===> 7_all.json
+Length command acc: 0.94
+Attr appear acc: 
+total 0.65 
+POS appear acc: 0.65
+=======================================
+evaluate ../results/videochat-7b_emmad-edit_bz64_f8_epoch3/all.json ...
+=======================================
+loading annotations into memory...
+0:00:00.000821
+creating index...
+index created!
+Loading and preparing results...     
+DONE (t=0.00s)
+creating index...
+index created!
+tokenization...
+setting up scorers...
+computing Bleu score...
+{'testlen': 12871, 'reflen': 12826, 'guess': [12871, 12731, 12591, 12451], 'correct': [11455, 10918, 10507, 10147]}
+ratio: 1.0035084983626226
+Bleu_1: 0.890
+Bleu_2: 0.874
+Bleu_3: 0.860
+Bleu_4: 0.849
+computing Rouge score...
+ROUGE_L: 0.865
+computing CIDEr score...
+CIDEr: 5.158
+Bleu_1: 0.890
+Bleu_2: 0.874
+Bleu_3: 0.860
+Bleu_4: 0.849
+ROUGE_L: 0.865
+CIDEr: 5.158
+SARI: 26.2, KEEP: 0.003, ADD: 0.042, DELETE: 0.740
+loding cache feats ........
+calculating EMScore scores...
+computing text embedding.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+computing greedy matching, video as ground truth.
+done in 6.65 seconds, 21.06 sentences/sec
+EMScore(X,V) correlation --------------------------------------
+EMScore(X,V) -> full_F: 45.3

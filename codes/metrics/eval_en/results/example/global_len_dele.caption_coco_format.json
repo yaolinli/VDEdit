@@ -1,0 +1,1798 @@
+{
+    "annotations": [
+        {
+            "image_id": "input0_wUlp6HaV-a8_000154_000164",
+            "caption": "On a stage, a man and a teen use wooden swords to play fight.",
+            "id": 0
+        },
+        {
+            "image_id": "input0_wUlp6HaV-a8_000154_000164",
+            "caption": "Two boys are on a stage and pretend to have a sword fight with each other.",
+            "id": 1
+        },
+        {
+            "image_id": "input1_dYEPXMdxGVU_000015_000025",
+            "caption": "several people playing with a soccer ball in a wide open field .",
+            "id": 2
+        },
+        {
+            "image_id": "input1_dYEPXMdxGVU_000015_000025",
+            "caption": "many people are outside playing kickball in a green grassy area .",
+            "id": 3
+        },
+        {
+            "image_id": "input2_3cdH4c8LP28_000057_000067",
+            "caption": "a speaking in a foreign language is juggling two balls .",
+            "id": 4
+        },
+        {
+            "image_id": "input3_7gVRjb-UxZk_000040_000050",
+            "caption": "ingredients are one by one added to a mixing bowl .",
+            "id": 5
+        },
+        {
+            "image_id": "input4_L0MaoHxwI4U_000000_000010",
+            "caption": "A small boy is playing with toy cymbals without pause.",
+            "id": 6
+        },
+        {
+            "image_id": "input4_L0MaoHxwI4U_000000_000010",
+            "caption": "a little boy plays with a pair of toy cymbals.",
+            "id": 7
+        },
+        {
+            "image_id": "input4_L0MaoHxwI4U_000000_000010",
+            "caption": "A small child is playing the symbols in the living room.",
+            "id": 8
+        },
+        {
+            "image_id": "input4_L0MaoHxwI4U_000000_000010",
+            "caption": "In a house, a small boy is playing the cymbals loudly.",
+            "id": 9
+        },
+        {
+            "image_id": "input5_wPUeRxWYMPE_000050_000060",
+            "caption": "a man is placing bandages around the head of another man .",
+            "id": 10
+        },
+        {
+            "image_id": "input6_qCFyiSTLlGI_000012_000022",
+            "caption": "A boy and girl walk around a living room crowded with people.",
+            "id": 11
+        },
+        {
+            "image_id": "input6_qCFyiSTLlGI_000012_000022",
+            "caption": "A baby walks through a crowded house talking on a cell phone.",
+            "id": 12
+        },
+        {
+            "image_id": "input7_1w9uJD2KvQ0_000348_000358",
+            "caption": "A woman folding a garment and appearing to be packing a suitcase.",
+            "id": 13
+        },
+        {
+            "image_id": "input7_1w9uJD2KvQ0_000348_000358",
+            "caption": "a woman is standing by a bed folding clothes to packs .",
+            "id": 14
+        },
+        {
+            "image_id": "input7_1w9uJD2KvQ0_000348_000358",
+            "caption": "A woman picks up a jacket and is folding it up.",
+            "id": 15
+        },
+        {
+            "image_id": "input7_1w9uJD2KvQ0_000348_000358",
+            "caption": "A woman folds clothes while talking to a dog in Portuguese.",
+            "id": 16
+        },
+        {
+            "image_id": "input8_vOPF1lBFg7A_000051_000061",
+            "caption": "a parody of a movie trailer done by students about laser tag .",
+            "id": 17
+        },
+        {
+            "image_id": "input8_vOPF1lBFg7A_000051_000061",
+            "caption": "teams of kids are walking around and playing laser tag .",
+            "id": 18
+        },
+        {
+            "image_id": "input8_vOPF1lBFg7A_000051_000061",
+            "caption": "trailer for a blacklight laser tag venue with dramatic music .",
+            "id": 19
+        },
+        {
+            "image_id": "input9_JPOodT2-4_8_000000_000010",
+            "caption": "a woman talks about beer and shows beer being poured into glasses and jugs .",
+            "id": 20
+        },
+        {
+            "image_id": "input9_JPOodT2-4_8_000000_000010",
+            "caption": "a woman discusses the waste of beer at a tavern setting while pouring .",
+            "id": 21
+        },
+        {
+            "image_id": "input9_JPOodT2-4_8_000000_000010",
+            "caption": "a woman discusses how not to waste beer at a bar .",
+            "id": 22
+        },
+        {
+            "image_id": "input10__bciTU-EiDk_000024_000034",
+            "caption": "A woman demonstrates how a latch works on the refrigerator.",
+            "id": 23
+        },
+        {
+            "image_id": "input11_-FnJ8C21XdE_000059_000069",
+            "caption": "a baby asleep while a sleepy puppy gets ready to snuggle up .",
+            "id": 24
+        },
+        {
+            "image_id": "input11_-FnJ8C21XdE_000059_000069",
+            "caption": "a baby lay asleep on a bed while a puppy watch .",
+            "id": 25
+        },
+        {
+            "image_id": "input11_-FnJ8C21XdE_000059_000069",
+            "caption": "a baby sleeps on a mat next to a small puppy .",
+            "id": 26
+        },
+        {
+            "image_id": "input12_O2JPsdHHzwc_000242_000252",
+            "caption": "A man kayaks in a pool while talking to people.",
+            "id": 27
+        },
+        {
+            "image_id": "input12_O2JPsdHHzwc_000242_000252",
+            "caption": "a man paddles in a small kayak in the water .",
+            "id": 28
+        },
+        {
+            "image_id": "input12_O2JPsdHHzwc_000242_000252",
+            "caption": "A man is row a kayak on the water.",
+            "id": 29
+        },
+        {
+            "image_id": "input13_k1peqGMGvAc_000000_000010",
+            "caption": "A man jump ropping very fast while outside.",
+            "id": 30
+        },
+        {
+            "image_id": "input14_8bM-lw2Nl10_000101_000111",
+            "caption": "A man in a room rubbed something on a woman head.",
+            "id": 31
+        },
+        {
+            "image_id": "input15_daWo02r5RvI_000016_000026",
+            "caption": "A guy is seated in front of a television watching a show.",
+            "id": 32
+        },
+        {
+            "image_id": "input15_daWo02r5RvI_000016_000026",
+            "caption": "A man is watching the tv and we see the back of his head.",
+            "id": 33
+        },
+        {
+            "image_id": "input15_daWo02r5RvI_000016_000026",
+            "caption": "A man is watching television and changing the channels.",
+            "id": 34
+        },
+        {
+            "image_id": "input15_daWo02r5RvI_000016_000026",
+            "caption": "A man intently watching television in a very cluttered room .",
+            "id": 35
+        },
+        {
+            "image_id": "input15_daWo02r5RvI_000016_000026",
+            "caption": "A man and someone else watch television in a messy room.",
+            "id": 36
+        },
+        {
+            "image_id": "input16_-586Cj6Npa8_000212_000222",
+            "caption": "someone is trimming off some of the stem of fake roses .",
+            "id": 37
+        },
+        {
+            "image_id": "input17_mAuIdwWqau0_000000_000010",
+            "caption": "young people are shown outdoors at night performing parkour together .",
+            "id": 38
+        },
+        {
+            "image_id": "input18_2hOEGWbXn3c_000003_000013",
+            "caption": "a man doing alternate raises with both arms holding weights in a gym .",
+            "id": 39
+        },
+        {
+            "image_id": "input18_2hOEGWbXn3c_000003_000013",
+            "caption": "a man is demonstrating how to perform and exercise inside a gym .",
+            "id": 40
+        },
+        {
+            "image_id": "input18_2hOEGWbXn3c_000003_000013",
+            "caption": "a man in a gyme is demonstrating proper form while lifting weights .",
+            "id": 41
+        },
+        {
+            "image_id": "input18_2hOEGWbXn3c_000003_000013",
+            "caption": "a man is talking while lifting weights in each hand .",
+            "id": 42
+        },
+        {
+            "image_id": "input19_CVomytAd7-0_000020_000030",
+            "caption": "A person is sitting on the floor and sharpening a knife.",
+            "id": 43
+        },
+        {
+            "image_id": "input19_CVomytAd7-0_000020_000030",
+            "caption": "An individual sitting on a surface sharpening a pocket knife with another pocket knife.",
+            "id": 44
+        },
+        {
+            "image_id": "input19_CVomytAd7-0_000020_000030",
+            "caption": "A person is sitting on the floor rubbing 2 switchblades together .",
+            "id": 45
+        },
+        {
+            "image_id": "input20_G8unFTBx3b0_000087_000097",
+            "caption": "demonstration of a double sided jigger by a professional bartender .",
+            "id": 46
+        },
+        {
+            "image_id": "input21_JBz7PUxDyE4_000035_000045",
+            "caption": "a man is holding a heavy rope and showing a exercise with them .",
+            "id": 47
+        },
+        {
+            "image_id": "input21_JBz7PUxDyE4_000035_000045",
+            "caption": "an instructor showing you how to exercise with two blacks ropes .",
+            "id": 48
+        },
+        {
+            "image_id": "input21_JBz7PUxDyE4_000035_000045",
+            "caption": "a man is doing heavy rope exercises on a field .",
+            "id": 49
+        },
+        {
+            "image_id": "input22_2-Wg9UFldCs_000003_000013",
+            "caption": "a women is teaching a girl how to shoot a bow .",
+            "id": 50
+        },
+        {
+            "image_id": "input23_HcY-0Fq-TUo_000033_000043",
+            "caption": "A young girl is brushing her while talking to the camera.",
+            "id": 51
+        },
+        {
+            "image_id": "input23_HcY-0Fq-TUo_000033_000043",
+            "caption": "A young girl is using a brush to untangle her long brown hair.",
+            "id": 52
+        },
+        {
+            "image_id": "input24_SAHCw0f5Jgo_000108_000118",
+            "caption": "people trudging through what looks to be some sort of hot springs .",
+            "id": 53
+        },
+        {
+            "image_id": "input24_SAHCw0f5Jgo_000108_000118",
+            "caption": "a group of people in water pulling themselves out with rope .",
+            "id": 54
+        },
+        {
+            "image_id": "input25_7rPC6p04F0Y_000014_000024",
+            "caption": "a man is using a tool to start removing the bolts of a tire .",
+            "id": 55
+        },
+        {
+            "image_id": "input25_7rPC6p04F0Y_000014_000024",
+            "caption": "a man is changing the tire on his white car and standing .",
+            "id": 56
+        },
+        {
+            "image_id": "input25_7rPC6p04F0Y_000014_000024",
+            "caption": "a man struggles to change a tire on the side of the road .",
+            "id": 57
+        },
+        {
+            "image_id": "input25_7rPC6p04F0Y_000014_000024",
+            "caption": "a man uses a tool to try and remove a car wheel .",
+            "id": 58
+        },
+        {
+            "image_id": "input26_UTpl0VRiYs0_000052_000062",
+            "caption": "two females make gestures on a lit stage as others stand by and watch .",
+            "id": 59
+        },
+        {
+            "image_id": "input26_UTpl0VRiYs0_000052_000062",
+            "caption": "two women do slow dancing movements in a spotlight while others watch .",
+            "id": 60
+        },
+        {
+            "image_id": "input26_UTpl0VRiYs0_000052_000062",
+            "caption": "a group of five ballet dancers practice a routine on their stage .",
+            "id": 61
+        },
+        {
+            "image_id": "input27_peRCp2-roOE_000005_000015",
+            "caption": "A man is seen using a menstrual pad as a tissue.",
+            "id": 62
+        },
+        {
+            "image_id": "input27_peRCp2-roOE_000005_000015",
+            "caption": "A boy with a koxtex wiping and blowing his nose on it.",
+            "id": 63
+        },
+        {
+            "image_id": "input28_2HbcJJT8b9k_000035_000045",
+            "caption": "a man and a woman are feeding a baby food via a spoon .",
+            "id": 64
+        },
+        {
+            "image_id": "input28_2HbcJJT8b9k_000035_000045",
+            "caption": "a baby is fed while being held by a man .",
+            "id": 65
+        },
+        {
+            "image_id": "input29_DauHQApK4po_000023_000033",
+            "caption": "A person braking something while others watch and laugh on a sidewalk.",
+            "id": 66
+        },
+        {
+            "image_id": "input29_DauHQApK4po_000023_000033",
+            "caption": "In front of a group of friends, a young gentlemen stomps and breaks something.",
+            "id": 67
+        },
+        {
+            "image_id": "input30_qCFyiSTLlGI_000012_000022",
+            "caption": "a boy and girl walk around a living room crowded with people .",
+            "id": 68
+        },
+        {
+            "image_id": "input30_qCFyiSTLlGI_000012_000022",
+            "caption": "a little child on a phone walking through a room .",
+            "id": 69
+        },
+        {
+            "image_id": "input31_R2Md8aSerrg_000000_000010",
+            "caption": "A person climbs  a rope and another person observes it.",
+            "id": 70
+        },
+        {
+            "image_id": "input32_98ieFdWqr3E_000165_000175",
+            "caption": "people in a building play laser tag together in the stairwells .",
+            "id": 71
+        },
+        {
+            "image_id": "input33_sh8fKzClNJ0_000102_000112",
+            "caption": "A toddler is in the bathroom learing how to brush her teeth.",
+            "id": 72
+        },
+        {
+            "image_id": "input33_sh8fKzClNJ0_000102_000112",
+            "caption": "A little girl is sitting on the bathroom cabinet attempting to brush her teeth .",
+            "id": 73
+        },
+        {
+            "image_id": "input34_Oi7uFkc3qQ4_000054_000064",
+            "caption": "A boy and girl are jumping up and down on a trampoline.",
+            "id": 74
+        },
+        {
+            "image_id": "input34_Oi7uFkc3qQ4_000054_000064",
+            "caption": "Two children are jumping up and down on a trampoline.",
+            "id": 75
+        },
+        {
+            "image_id": "input34_Oi7uFkc3qQ4_000054_000064",
+            "caption": "A boy and girl are in the backyard bouncing up and down on a trampoline.",
+            "id": 76
+        },
+        {
+            "image_id": "input35_-leKrFFfyzU_000008_000018",
+            "caption": "people are skydiving , sitting on a couch and riding a miniature bicycle .",
+            "id": 77
+        },
+        {
+            "image_id": "input35_-leKrFFfyzU_000008_000018",
+            "caption": "people sign safety release forms in order to jump from an airplane .",
+            "id": 78
+        },
+        {
+            "image_id": "input35_-leKrFFfyzU_000008_000018",
+            "caption": "several men preparing to go skydiving then doing it .",
+            "id": 79
+        },
+        {
+            "image_id": "input35_-leKrFFfyzU_000008_000018",
+            "caption": "a man signs a waiver to go skydiving out of an airplane .",
+            "id": 80
+        },
+        {
+            "image_id": "input36_aXdAu4g7dAA_000000_000010",
+            "caption": "A teenage boy wrestles another teenage boy onto a queen sized mattress.",
+            "id": 81
+        },
+        {
+            "image_id": "input36_aXdAu4g7dAA_000000_000010",
+            "caption": "A boy pushes a man with force onto a bed .",
+            "id": 82
+        },
+        {
+            "image_id": "input36_aXdAu4g7dAA_000000_000010",
+            "caption": "One teenager tackles another playfully and they crash into the bed.",
+            "id": 83
+        },
+        {
+            "image_id": "input37_CeQ5f7l-mQQ_000019_000029",
+            "caption": "A young man shoots a bow and arrow into the sky.",
+            "id": 84
+        },
+        {
+            "image_id": "input37_CeQ5f7l-mQQ_000019_000029",
+            "caption": "A person shoots an arrow out of a bow at a high angle.",
+            "id": 85
+        },
+        {
+            "image_id": "input37_CeQ5f7l-mQQ_000019_000029",
+            "caption": "A man prepares to use his bow and then he releases a shot.",
+            "id": 86
+        },
+        {
+            "image_id": "input37_CeQ5f7l-mQQ_000019_000029",
+            "caption": "A young man is ouside shooting arrows with his bow into the wind.",
+            "id": 87
+        },
+        {
+            "image_id": "input38_Ds_PO1y9aek_000028_000038",
+            "caption": "People throw water baloons at each other in the yard.",
+            "id": 88
+        },
+        {
+            "image_id": "input38_Ds_PO1y9aek_000028_000038",
+            "caption": "A group of people have a waterballon fight in a yard.",
+            "id": 89
+        },
+        {
+            "image_id": "input39_TEqJ_1gk3Ro_000040_000050",
+            "caption": "a baby in a diaper squeals and rolls around on the floor .",
+            "id": 90
+        },
+        {
+            "image_id": "input39_TEqJ_1gk3Ro_000040_000050",
+            "caption": "a baby lying on the floor , smiling and rolling over .",
+            "id": 91
+        },
+        {
+            "image_id": "input40_4p-0oTBhA-E_000009_000019",
+            "caption": "two women watching a video of a person transfering an egg using a water bottle .",
+            "id": 92
+        },
+        {
+            "image_id": "input40_4p-0oTBhA-E_000009_000019",
+            "caption": "a woman is watching another person on the television separate a yolk and egg .",
+            "id": 93
+        },
+        {
+            "image_id": "input40_4p-0oTBhA-E_000009_000019",
+            "caption": "using a bottle to remove an egg yolk from the white .",
+            "id": 94
+        },
+        {
+            "image_id": "input40_4p-0oTBhA-E_000009_000019",
+            "caption": "a person sucks an egg out of a plate using a water bottle .",
+            "id": 95
+        },
+        {
+            "image_id": "input40_4p-0oTBhA-E_000009_000019",
+            "caption": "a chef separates a yolk and egg white using a plastic water bottle .",
+            "id": 96
+        },
+        {
+            "image_id": "input41_M2C4q_VgBE0_000127_000137",
+            "caption": "a man in a studio instructing on how to properly stretch .",
+            "id": 97
+        },
+        {
+            "image_id": "input41_M2C4q_VgBE0_000127_000137",
+            "caption": "a man is explaining a good shoulder stretching technique .",
+            "id": 98
+        },
+        {
+            "image_id": "input42_N7Lx0S9eTFA_000047_000057",
+            "caption": "a boy in shorts plays hopscotch on squares with yellow outlines .",
+            "id": 99
+        },
+        {
+            "image_id": "input42_N7Lx0S9eTFA_000047_000057",
+            "caption": "a young boy is showing people how to play hopscotch .",
+            "id": 100
+        },
+        {
+            "image_id": "input43_m1zC0KsNAcU_000000_000010",
+            "caption": "A woman is having her hair washed by another woman.",
+            "id": 101
+        },
+        {
+            "image_id": "input44_XFNsGFJkBMc_000250_000260",
+            "caption": "a person cooking in frying pan with lots of diffident vegetables .",
+            "id": 102
+        },
+        {
+            "image_id": "input45_CCSCjIP7hiA_000002_000012",
+            "caption": "A young boy is hold mail and gives it to a young girl.",
+            "id": 103
+        },
+        {
+            "image_id": "input46_JApGFHkA-Yk_000083_000093",
+            "caption": "A person is medically tending to another persons arm.",
+            "id": 104
+        },
+        {
+            "image_id": "input47_BJNbW-UCKKE_000006_000016",
+            "caption": "a little baby is crawling on the wooden floor to a man .",
+            "id": 105
+        },
+        {
+            "image_id": "input47_BJNbW-UCKKE_000006_000016",
+            "caption": "a baby tries to crawl and chatters while its dad watches .",
+            "id": 106
+        },
+        {
+            "image_id": "input47_BJNbW-UCKKE_000006_000016",
+            "caption": "a baby is making noises and crawling towards a man .",
+            "id": 107
+        },
+        {
+            "image_id": "input48_ymUozo1-evI_000780_000790",
+            "caption": "At a table a woman is using scissors to trim the cover a paperback book .",
+            "id": 108
+        },
+        {
+            "image_id": "input48_ymUozo1-evI_000780_000790",
+            "caption": "A woman uses a pair of scissors to cut a protective cover for a book.",
+            "id": 109
+        },
+        {
+            "image_id": "input48_ymUozo1-evI_000780_000790",
+            "caption": "A person is using scissors to fix a book, showing it after.",
+            "id": 110
+        },
+        {
+            "image_id": "input48_ymUozo1-evI_000780_000790",
+            "caption": "A woman is cutting plastic off of the cover of a book.",
+            "id": 111
+        },
+        {
+            "image_id": "input49_gcaQeqj-NBw_000015_000025",
+            "caption": "a group of woman climbing over a wood wall outdoors .",
+            "id": 112
+        },
+        {
+            "image_id": "input50_e2gxZe1Q-us_000251_000261",
+            "caption": "a girl is showing how the game of dominoes is played .",
+            "id": 113
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "A man is using a large paint roller to paint a wall.",
+            "id": 114
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "A man shows how to paint with a roller as music plays.",
+            "id": 115
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "A man is painting a wall with a large paint roller.",
+            "id": 116
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "A man dressed in white is painting a wall with a roller.",
+            "id": 117
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "A man demonstrates how to properly paint a wall using a large roller.",
+            "id": 118
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "A man in a white uniform demonstrates the best way to cover a wall with paint.",
+            "id": 119
+        },
+        {
+            "image_id": "input51_ORUy17Z9Zx4_000017_000027",
+            "caption": "a man demonstrating a paint roller in German .",
+            "id": 120
+        },
+        {
+            "image_id": "input52_3ShSvGhFUcc_000030_000040",
+            "caption": "A young boy is laying in a chair and having his hair washed.",
+            "id": 121
+        },
+        {
+            "image_id": "input52_3ShSvGhFUcc_000030_000040",
+            "caption": "A young kid seated in a chair having his hair washed .",
+            "id": 122
+        },
+        {
+            "image_id": "input52_3ShSvGhFUcc_000030_000040",
+            "caption": "A young child is getting a shampoo by a beauty salon stylist.",
+            "id": 123
+        },
+        {
+            "image_id": "input53_AehLAPZBSzA_000000_000010",
+            "caption": "a person practices a riding a unicycle by holding a fence .",
+            "id": 124
+        },
+        {
+            "image_id": "input54_elad6vOMAFY_000076_000086",
+            "caption": "in the kitchen a woman is preparing dough on a counter .",
+            "id": 125
+        },
+        {
+            "image_id": "input54_elad6vOMAFY_000076_000086",
+            "caption": "a person is making a braided bread and granola bars .",
+            "id": 126
+        },
+        {
+            "image_id": "input54_elad6vOMAFY_000076_000086",
+            "caption": "home made granola is being prepared to be baked .",
+            "id": 127
+        },
+        {
+            "image_id": "input55_qeca1J0NVqo_000533_000543",
+            "caption": "A young boy is demonstrating how to solve a rubiks cube.",
+            "id": 128
+        },
+        {
+            "image_id": "input55_qeca1J0NVqo_000533_000543",
+            "caption": "A child plays with a Rubik's cube as he talks.",
+            "id": 129
+        },
+        {
+            "image_id": "input55_qeca1J0NVqo_000533_000543",
+            "caption": "A little indian boy is demonstrating how to solve a Rubiks cube.",
+            "id": 130
+        },
+        {
+            "image_id": "input56_9AjtxfocCnM_000006_000016",
+            "caption": "a woman wearing blue does sit ups in the grass .",
+            "id": 131
+        },
+        {
+            "image_id": "input57_i0ccSYMl0vo_000027_000037",
+            "caption": "a group of people laugh hysterically as a man gets his leg waxed .",
+            "id": 132
+        },
+        {
+            "image_id": "input57_i0ccSYMl0vo_000027_000037",
+            "caption": "a woman is placing a waxing strip on a man 's leg .",
+            "id": 133
+        },
+        {
+            "image_id": "input58_05ljTAaWnVc_000003_000013",
+            "caption": "several young people are learning how to juglle with balls .",
+            "id": 134
+        },
+        {
+            "image_id": "input59_5Jm0DJqRr2A_000000_000010",
+            "caption": "a bicyclist rides his bicycle across a swinging bridge .",
+            "id": 135
+        },
+        {
+            "image_id": "input60_Y22t5TNfysQ_000160_000170",
+            "caption": "two young boys tie the shoes of a person that is standing on top of a table .",
+            "id": 136
+        },
+        {
+            "image_id": "input60_Y22t5TNfysQ_000160_000170",
+            "caption": "two people are tying the shoes of someone standing in front of them .",
+            "id": 137
+        },
+        {
+            "image_id": "input60_Y22t5TNfysQ_000160_000170",
+            "caption": "two boys demonstrate how to tie laces on two different shoes .",
+            "id": 138
+        },
+        {
+            "image_id": "input60_Y22t5TNfysQ_000160_000170",
+            "caption": "two young men tie the shoes of another young man standing on a desk .",
+            "id": 139
+        },
+        {
+            "image_id": "input60_Y22t5TNfysQ_000160_000170",
+            "caption": "two boys are in a classroom and tie a man 's shoes .",
+            "id": 140
+        },
+        {
+            "image_id": "input61_Lrgs9rwTHuY_000043_000053",
+            "caption": "A person is water skiing at night on a well lit lake.",
+            "id": 141
+        },
+        {
+            "image_id": "input61_Lrgs9rwTHuY_000043_000053",
+            "caption": "A man is wakeboarding across water in the dark and he falls into the water.",
+            "id": 142
+        },
+        {
+            "image_id": "input61_Lrgs9rwTHuY_000043_000053",
+            "caption": "The man is having a great time water skiing in the ocean.",
+            "id": 143
+        },
+        {
+            "image_id": "input62_8stzRPQRbk8_000058_000068",
+            "caption": "A young man shows how to make a noose with a commentary.",
+            "id": 144
+        },
+        {
+            "image_id": "input62_8stzRPQRbk8_000058_000068",
+            "caption": "A man ties a noose onto a rope while explaining how to do it.",
+            "id": 145
+        },
+        {
+            "image_id": "input62_8stzRPQRbk8_000058_000068",
+            "caption": "A man is giving instructions and demonstrating how to tie a noose.",
+            "id": 146
+        },
+        {
+            "image_id": "input62_8stzRPQRbk8_000058_000068",
+            "caption": "Man holding a rope in his hand showing how to tie a knot.",
+            "id": 147
+        },
+        {
+            "image_id": "input62_8stzRPQRbk8_000058_000068",
+            "caption": "A man ties a hangman's noose knot with a piece of rope.",
+            "id": 148
+        },
+        {
+            "image_id": "input63_dcZviSRcIB0_000068_000078",
+            "caption": "A group of pigeons are walking around on the grass and are eating food.",
+            "id": 149
+        },
+        {
+            "image_id": "input63_dcZviSRcIB0_000068_000078",
+            "caption": "A bunch of pigeons are sitting on the grass and eating food thrown at them .",
+            "id": 150
+        },
+        {
+            "image_id": "input63_dcZviSRcIB0_000068_000078",
+            "caption": "A group of pigeons are being fed cubes of bread on the grass.",
+            "id": 151
+        },
+        {
+            "image_id": "input63_dcZviSRcIB0_000068_000078",
+            "caption": "A bunch of pigeons are eating bread off the ground in a park.",
+            "id": 152
+        },
+        {
+            "image_id": "input63_dcZviSRcIB0_000068_000078",
+            "caption": "A group of pigeons is picking up popcorn that has fallen on the ground outside.",
+            "id": 153
+        },
+        {
+            "image_id": "input63_dcZviSRcIB0_000068_000078",
+            "caption": "A group of pigeons are chasing piece of bread that is being thrown onto the ground.",
+            "id": 154
+        },
+        {
+            "image_id": "input64_HUYq0f2onfQ_000008_000018",
+            "caption": "a man with a knife rubs the knife along a surf board .",
+            "id": 155
+        },
+        {
+            "image_id": "input65_22glIZfA9R4_000115_000125",
+            "caption": "A woman is putting together a toy track for the train.",
+            "id": 156
+        },
+        {
+            "image_id": "input66_Ojwg76QZH48_000000_000010",
+            "caption": "a person shows how to clear snow off the ground with a large shovel .",
+            "id": 157
+        },
+        {
+            "image_id": "input66_Ojwg76QZH48_000000_000010",
+            "caption": "a man uses a hand held snow scoop to shovel snow .",
+            "id": 158
+        },
+        {
+            "image_id": "input66_Ojwg76QZH48_000000_000010",
+            "caption": "man running through the snow pushing a large shovel and falling over .",
+            "id": 159
+        },
+        {
+            "image_id": "input66_Ojwg76QZH48_000000_000010",
+            "caption": "a man is clearing very deep snow in ottawa in the year 2008 .",
+            "id": 160
+        },
+        {
+            "image_id": "input67_JPOodT2-4_8_000000_000010",
+            "caption": "a woman discusses the waste of beer at a tavern setting while pouring .",
+            "id": 161
+        },
+        {
+            "image_id": "input67_JPOodT2-4_8_000000_000010",
+            "caption": "a woman discusses how not to waste beer at a bar .",
+            "id": 162
+        },
+        {
+            "image_id": "input68_3CtEhqybW5M_000327_000337",
+            "caption": "two women are communicating over the internet using sign language .",
+            "id": 163
+        },
+        {
+            "image_id": "input69_17Gjt3E3w80_000089_000099",
+            "caption": "A woman is playing with a flashlight in a dark space.",
+            "id": 164
+        },
+        {
+            "image_id": "input69_17Gjt3E3w80_000089_000099",
+            "caption": "A woman is making noises to music while holding a flashlight.",
+            "id": 165
+        },
+        {
+            "image_id": "input70_9O4nTiq3kYI_000012_000022",
+            "caption": "A person standing in front of a television swallows a long rod.",
+            "id": 166
+        },
+        {
+            "image_id": "input70_9O4nTiq3kYI_000012_000022",
+            "caption": "A girl swallows a sword in her living room in a practice session.",
+            "id": 167
+        },
+        {
+            "image_id": "input70_9O4nTiq3kYI_000012_000022",
+            "caption": "A girl in a black tank top tilts her head up and then swallows a sword.",
+            "id": 168
+        },
+        {
+            "image_id": "input70_9O4nTiq3kYI_000012_000022",
+            "caption": "A woman is standing up swallowing a whole knife  in the middle of the floor .",
+            "id": 169
+        },
+        {
+            "image_id": "input71_n0o8KmFf33k_000022_000032",
+            "caption": "the young boy takes the milking harness off of the cow .",
+            "id": 170
+        },
+        {
+            "image_id": "input71_n0o8KmFf33k_000022_000032",
+            "caption": "a young boy milks a cow outside at a farm .",
+            "id": 171
+        },
+        {
+            "image_id": "input71_n0o8KmFf33k_000022_000032",
+            "caption": "a boy using a milking machine to milk a cow .",
+            "id": 172
+        },
+        {
+            "image_id": "input72_M9sGALsPg-0_000000_000010",
+            "caption": "three men use makeshift musical instruments to make music and dance beside a pool table .",
+            "id": 173
+        },
+        {
+            "image_id": "input72_M9sGALsPg-0_000000_000010",
+            "caption": "three men dance and make music together in a comedic fashion .",
+            "id": 174
+        },
+        {
+            "image_id": "input72_M9sGALsPg-0_000000_000010",
+            "caption": "three men are playing music and dancing around to the beat .",
+            "id": 175
+        },
+        {
+            "image_id": "input73_Uj3FDarLXzY_000014_000024",
+            "caption": "Two people jump off a high dive into a pool.",
+            "id": 176
+        },
+        {
+            "image_id": "input73_Uj3FDarLXzY_000014_000024",
+            "caption": "People flip off of diving boards and dive into a pool.",
+            "id": 177
+        },
+        {
+            "image_id": "input73_Uj3FDarLXzY_000014_000024",
+            "caption": "Someone does a black flip on the board and jumps into a pool.",
+            "id": 178
+        },
+        {
+            "image_id": "input74_Kop2rIvVh9o_000046_000056",
+            "caption": "A man wetting his face and shaving part of his beard .",
+            "id": 179
+        },
+        {
+            "image_id": "input74_Kop2rIvVh9o_000046_000056",
+            "caption": "A man washes and shaves in the mirror of a bathroom.",
+            "id": 180
+        },
+        {
+            "image_id": "input74_Kop2rIvVh9o_000046_000056",
+            "caption": "A man shaves his face in a bathroom using a disposable razor.",
+            "id": 181
+        },
+        {
+            "image_id": "input74_Kop2rIvVh9o_000046_000056",
+            "caption": "A man rubs something into his beard and then begins to shave.",
+            "id": 182
+        },
+        {
+            "image_id": "input74_Kop2rIvVh9o_000046_000056",
+            "caption": "A man is shaving in a bathroom to the tune of music .",
+            "id": 183
+        },
+        {
+            "image_id": "input75_zlvX_tY_3nY_000151_000161",
+            "caption": "a woman weaves green and blue threads on a wooden apparatus .",
+            "id": 184
+        },
+        {
+            "image_id": "input75_zlvX_tY_3nY_000151_000161",
+            "caption": "a woman is demonstrating how to use a weaving loom .",
+            "id": 185
+        },
+        {
+            "image_id": "input76__hH1yZQf5Og_000000_000010",
+            "caption": "workers on a construction site with a large ground drill .",
+            "id": 186
+        },
+        {
+            "image_id": "input77_nTI5QpazQlo_000020_000030",
+            "caption": "A man in a kitchen stick a pencil into an electric pencil sharpener.",
+            "id": 187
+        },
+        {
+            "image_id": "input77_nTI5QpazQlo_000020_000030",
+            "caption": "a man stands in the kitchen and sharpens pencils with a pencil sharpener .",
+            "id": 188
+        },
+        {
+            "image_id": "input77_nTI5QpazQlo_000020_000030",
+            "caption": "A man is standing in a kitchen using a tool working on an appliance .",
+            "id": 189
+        },
+        {
+            "image_id": "input77_nTI5QpazQlo_000020_000030",
+            "caption": "A man is sharpening a pencil in his kitchen at home.",
+            "id": 190
+        },
+        {
+            "image_id": "input78_rJk8fad5ZnU_000007_000017",
+            "caption": "a man is demonstrating how to use a pottery wheel .",
+            "id": 191
+        },
+        {
+            "image_id": "input79_4qx4mmAipPw_000017_000027",
+            "caption": "A man is inhaling from a pipe and exhaling smoke.",
+            "id": 192
+        },
+        {
+            "image_id": "input79_4qx4mmAipPw_000017_000027",
+            "caption": "A person is sitting and is doing smoke from the pipe .",
+            "id": 193
+        },
+        {
+            "image_id": "input80_gozhkpe-sEU_000006_000016",
+            "caption": "A woman lying on her back is getting her head massaged.",
+            "id": 194
+        },
+        {
+            "image_id": "input80_gozhkpe-sEU_000006_000016",
+            "caption": "A woman has her head and hair massaged on a massage table.",
+            "id": 195
+        },
+        {
+            "image_id": "input80_gozhkpe-sEU_000006_000016",
+            "caption": "A woman lying on her back is receiving a head massage.",
+            "id": 196
+        },
+        {
+            "image_id": "input80_gozhkpe-sEU_000006_000016",
+            "caption": "A woman lays on her back and gets her head massaged by someone.",
+            "id": 197
+        },
+        {
+            "image_id": "input81_OHnjPSvtkCQ_000135_000145",
+            "caption": "A teen girl instructs how to apply foundation to the face.",
+            "id": 198
+        },
+        {
+            "image_id": "input82_10gJjyK2TXQ_000001_000011",
+            "caption": "A man practice his long distance jump on an athletic field.",
+            "id": 199
+        },
+        {
+            "image_id": "input82_10gJjyK2TXQ_000001_000011",
+            "caption": "A man does the long jump outdoors at a local park.",
+            "id": 200
+        },
+        {
+            "image_id": "input83_TrCjxQI2TB4_000000_000010",
+            "caption": "someone wearing a red ymca t-shirt puts down special flooring .",
+            "id": 201
+        },
+        {
+            "image_id": "input84_1EdwRves2hY_000005_000015",
+            "caption": "an on air reporter covers the story of a snowless dog sled race .",
+            "id": 202
+        },
+        {
+            "image_id": "input84_1EdwRves2hY_000005_000015",
+            "caption": "a news anchor reports on how dogs pull a sleigh on wheels .",
+            "id": 203
+        },
+        {
+            "image_id": "input84_1EdwRves2hY_000005_000015",
+            "caption": "news coverage of a sled dog race held on paved paths .",
+            "id": 204
+        },
+        {
+            "image_id": "input85_Oa--Wvh68-w_000198_000208",
+            "caption": "a few people are sitting on a couch and weaving baskets .",
+            "id": 205
+        },
+        {
+            "image_id": "input85_Oa--Wvh68-w_000198_000208",
+            "caption": "a group of people sitting down making some baskets outside .",
+            "id": 206
+        },
+        {
+            "image_id": "input86_R6N2XOGJ8UY_000124_000134",
+            "caption": "in a room a teacher show how to do a math problem .",
+            "id": 207
+        },
+        {
+            "image_id": "input87_1ETCFP3Rgko_000009_000019",
+            "caption": "a black man in green shorts dribbles three basketballs at once .",
+            "id": 208
+        },
+        {
+            "image_id": "input87_1ETCFP3Rgko_000009_000019",
+            "caption": "a man juggles three basketballs while dribbling two at once .",
+            "id": 209
+        },
+        {
+            "image_id": "input88_uYoCg9BFcrw_000002_000012",
+            "caption": "A girl in a room does a dance across the floor.",
+            "id": 210
+        },
+        {
+            "image_id": "input88_uYoCg9BFcrw_000002_000012",
+            "caption": "A girl does a brief spin around as if practicing a ballet dance.",
+            "id": 211
+        },
+        {
+            "image_id": "input89_fRqFwXo7hks_000167_000177",
+            "caption": "A man in talking about a game controller in a foreign language.",
+            "id": 212
+        },
+        {
+            "image_id": "input89_fRqFwXo7hks_000167_000177",
+            "caption": "A man is pointing out the parts of a video game controller .",
+            "id": 213
+        },
+        {
+            "image_id": "input89_fRqFwXo7hks_000167_000177",
+            "caption": "A man is talking and touching the controller of a video game.",
+            "id": 214
+        },
+        {
+            "image_id": "input90_UfazpuvxULU_000042_000052",
+            "caption": "a young girl is playing around on an a-frame ladder inside of a house .",
+            "id": 215
+        },
+        {
+            "image_id": "input90_UfazpuvxULU_000042_000052",
+            "caption": "a little girl is standing on a step ladder towards the top .",
+            "id": 216
+        },
+        {
+            "image_id": "input90_UfazpuvxULU_000042_000052",
+            "caption": "a girl in a pink top on a ladder tries to explain something .",
+            "id": 217
+        },
+        {
+            "image_id": "input91_8Wb8JPjcJCo_000028_000038",
+            "caption": "A man takes a sip of water and then kisses a woman .",
+            "id": 218
+        },
+        {
+            "image_id": "input91_8Wb8JPjcJCo_000028_000038",
+            "caption": "A man takes a sip of a drink then passionately kisses a woman.",
+            "id": 219
+        },
+        {
+            "image_id": "input91_8Wb8JPjcJCo_000028_000038",
+            "caption": "A man takes a pill and drinks water while kissing a man.",
+            "id": 220
+        },
+        {
+            "image_id": "input91_8Wb8JPjcJCo_000028_000038",
+            "caption": "A man drinks a drink and then a woman kisses him.",
+            "id": 221
+        },
+        {
+            "image_id": "input91_8Wb8JPjcJCo_000028_000038",
+            "caption": "A man took a pill and then started kissing a woman.",
+            "id": 222
+        },
+        {
+            "image_id": "input92_r-wIkSbrt_Y_000045_000055",
+            "caption": "a baby hanging on to her mother eating cheese while mother talks .",
+            "id": 223
+        },
+        {
+            "image_id": "input93_VzAaSi_rjHE_000000_000010",
+            "caption": "a man sits with a bunch of colorful motorcycles .",
+            "id": 224
+        },
+        {
+            "image_id": "input94_QP3cjM6o6N8_000017_000027",
+            "caption": "a group of guys are playing field hockey and talking about it .",
+            "id": 225
+        },
+        {
+            "image_id": "input94_QP3cjM6o6N8_000017_000027",
+            "caption": "several people shoot balls at a goalie using their hockey stick .",
+            "id": 226
+        },
+        {
+            "image_id": "input94_QP3cjM6o6N8_000017_000027",
+            "caption": "a sports team is practicing make goals while the goalie blocks .",
+            "id": 227
+        },
+        {
+            "image_id": "input95_34ksx-DQKBo_000001_000011",
+            "caption": "A young child grabs a colored cup and begins drinking from it.",
+            "id": 228
+        },
+        {
+            "image_id": "input96_1SpPRDN7HhM_000000_000010",
+            "caption": "a man in a room filled with equipment that is almost all black .",
+            "id": 229
+        },
+        {
+            "image_id": "input96_1SpPRDN7HhM_000000_000010",
+            "caption": "a man is fixing a bicycle inside of a room .",
+            "id": 230
+        },
+        {
+            "image_id": "input97_cAxBY04KV2c_000002_000012",
+            "caption": "A male falls over in a chair after being poked by a drumstick from another male.",
+            "id": 231
+        },
+        {
+            "image_id": "input98_wHxBcTJB1F8_000000_000010",
+            "caption": "a man holds up a piece of paper while another throws something at it , unable to break the paper .",
+            "id": 232
+        },
+        {
+            "image_id": "input98_wHxBcTJB1F8_000000_000010",
+            "caption": "two men are holding a sheet of paper and throwing something at it but it does n't rip .",
+            "id": 233
+        },
+        {
+            "image_id": "input98_wHxBcTJB1F8_000000_000010",
+            "caption": "a man is holding up a sheet of paper while another man flings a playing card at the paper .",
+            "id": 234
+        },
+        {
+            "image_id": "input98_wHxBcTJB1F8_000000_000010",
+            "caption": "one person is holding a piece of paper and another on flicks an empty cigarette package at it .",
+            "id": 235
+        },
+        {
+            "image_id": "input99_2XRtxWhF8SI_000027_000037",
+            "caption": "three children are playing and bouncing inside an inflatable bouncing slide .",
+            "id": 236
+        },
+        {
+            "image_id": "input99_2XRtxWhF8SI_000027_000037",
+            "caption": "in the play school the cute children playing and enjoying .",
+            "id": 237
+        },
+        {
+            "image_id": "input99_2XRtxWhF8SI_000027_000037",
+            "caption": "three children are playing on a blow up slide toy .",
+            "id": 238
+        },
+        {
+            "image_id": "input99_2XRtxWhF8SI_000027_000037",
+            "caption": "a group of kids playing in a inflated playhouse indoors .",
+            "id": 239
+        },
+        {
+            "image_id": "input100_s6neX_K5Pus_000015_000025",
+            "caption": "a man performs various exercises with weights indoors .",
+            "id": 240
+        },
+        {
+            "image_id": "input101_S0qHSQE-wQI_000000_000010",
+            "caption": "a group of boys and men are playing a game of dodge ball .",
+            "id": 241
+        },
+        {
+            "image_id": "input101_S0qHSQE-wQI_000000_000010",
+            "caption": "people play dodgeball on two teams in a small room .",
+            "id": 242
+        },
+        {
+            "image_id": "input101_S0qHSQE-wQI_000000_000010",
+            "caption": "a group of people play dodge ball in an indoor facility .",
+            "id": 243
+        },
+        {
+            "image_id": "input101_S0qHSQE-wQI_000000_000010",
+            "caption": "a rowdy group of guys in a gym plays dodgeball .",
+            "id": 244
+        },
+        {
+            "image_id": "input102_A3a01_6GkJ8_000016_000026",
+            "caption": "A person is standing and is singing to the camera .",
+            "id": 245
+        },
+        {
+            "image_id": "input103_ognDVWEpuOg_000031_000041",
+            "caption": "a boy breaking pieces of something and putting them in a plate .",
+            "id": 246
+        },
+        {
+            "image_id": "input104_0LqfsamL864_000098_000108",
+            "caption": "a person lays mortar against the corner of a window sill .",
+            "id": 247
+        },
+        {
+            "image_id": "input105_zH2qJbxLkzg_000022_000032",
+            "caption": "A young boy punches a board being held and breaks it .",
+            "id": 248
+        },
+        {
+            "image_id": "input106_Ja69jPcPpbI_000062_000072",
+            "caption": "someone feeding their baby boy , baby food on a small spoon .",
+            "id": 249
+        },
+        {
+            "image_id": "input107_MyIecl0syug_000073_000083",
+            "caption": "children play with plastic sleds in the snow outdoors .",
+            "id": 250
+        },
+        {
+            "image_id": "input108_GtRr4H-Q11w_000001_000011",
+            "caption": "a white swan standing by a small body of water ruffling its feathers .",
+            "id": 251
+        },
+        {
+            "image_id": "input108_GtRr4H-Q11w_000001_000011",
+            "caption": "a beautiful swan is pecking around its feathers and cleaning itself .",
+            "id": 252
+        },
+        {
+            "image_id": "input108_GtRr4H-Q11w_000001_000011",
+            "caption": "a beautiful white swan is standing in front of a pond .",
+            "id": 253
+        },
+        {
+            "image_id": "input109_OBr7EJSSBdE_000787_000797",
+            "caption": "someone is showing how to adjust the level of a research lamp .",
+            "id": 254
+        },
+        {
+            "image_id": "input109_OBr7EJSSBdE_000787_000797",
+            "caption": "a small bright light is raised upward by a sliver device .",
+            "id": 255
+        },
+        {
+            "image_id": "input110_nDHHn9MxshU_000005_000015",
+            "caption": "a guy is in a shopping area singing and playing the guitar .",
+            "id": 256
+        },
+        {
+            "image_id": "input110_nDHHn9MxshU_000005_000015",
+            "caption": "a man sings and performs in a crowded bar venue .",
+            "id": 257
+        },
+        {
+            "image_id": "input111_EbMF9e9v03Y_000000_000010",
+            "caption": "a boy rides his bicycle and jumps onto a make shift wooden ramp.",
+            "id": 258
+        },
+        {
+            "image_id": "input111_EbMF9e9v03Y_000000_000010",
+            "caption": "A kid on a bike rides over a home made wooden jump.",
+            "id": 259
+        },
+        {
+            "image_id": "input112_yg-ycnodqe0_000006_000016",
+            "caption": "a woman is doing a rope climb in a gym .",
+            "id": 260
+        },
+        {
+            "image_id": "input113_JlhZMH7lKGU_000000_000010",
+            "caption": "an individual who is ballet dancing in a dance studio .",
+            "id": 261
+        },
+        {
+            "image_id": "input114_TWV8C7B27RM_000077_000087",
+            "caption": "a boy is practicing throwing playing cards while narrating .",
+            "id": 262
+        },
+        {
+            "image_id": "input115_RvfXA3_mv1I_000018_000028",
+            "caption": "A man walks on a tightrope that is situated between two trees.",
+            "id": 263
+        },
+        {
+            "image_id": "input115_RvfXA3_mv1I_000018_000028",
+            "caption": "A man is slowly and carefully walking across the tight rope.",
+            "id": 264
+        }
+    ],
+    "images": [
+        {
+            "filename": "wUlp6HaV-a8_000154_000164",
+            "id": "input0_wUlp6HaV-a8_000154_000164"
+        },
+        {
+            "filename": "dYEPXMdxGVU_000015_000025",
+            "id": "input1_dYEPXMdxGVU_000015_000025"
+        },
+        {
+            "filename": "3cdH4c8LP28_000057_000067",
+            "id": "input2_3cdH4c8LP28_000057_000067"
+        },
+        {
+            "filename": "7gVRjb-UxZk_000040_000050",
+            "id": "input3_7gVRjb-UxZk_000040_000050"
+        },
+        {
+            "filename": "L0MaoHxwI4U_000000_000010",
+            "id": "input4_L0MaoHxwI4U_000000_000010"
+        },
+        {
+            "filename": "wPUeRxWYMPE_000050_000060",
+            "id": "input5_wPUeRxWYMPE_000050_000060"
+        },
+        {
+            "filename": "qCFyiSTLlGI_000012_000022",
+            "id": "input6_qCFyiSTLlGI_000012_000022"
+        },
+        {
+            "filename": "1w9uJD2KvQ0_000348_000358",
+            "id": "input7_1w9uJD2KvQ0_000348_000358"
+        },
+        {
+            "filename": "vOPF1lBFg7A_000051_000061",
+            "id": "input8_vOPF1lBFg7A_000051_000061"
+        },
+        {
+            "filename": "JPOodT2-4_8_000000_000010",
+            "id": "input9_JPOodT2-4_8_000000_000010"
+        },
+        {
+            "filename": "_bciTU-EiDk_000024_000034",
+            "id": "input10__bciTU-EiDk_000024_000034"
+        },
+        {
+            "filename": "-FnJ8C21XdE_000059_000069",
+            "id": "input11_-FnJ8C21XdE_000059_000069"
+        },
+        {
+            "filename": "O2JPsdHHzwc_000242_000252",
+            "id": "input12_O2JPsdHHzwc_000242_000252"
+        },
+        {
+            "filename": "k1peqGMGvAc_000000_000010",
+            "id": "input13_k1peqGMGvAc_000000_000010"
+        },
+        {
+            "filename": "8bM-lw2Nl10_000101_000111",
+            "id": "input14_8bM-lw2Nl10_000101_000111"
+        },
+        {
+            "filename": "daWo02r5RvI_000016_000026",
+            "id": "input15_daWo02r5RvI_000016_000026"
+        },
+        {
+            "filename": "-586Cj6Npa8_000212_000222",
+            "id": "input16_-586Cj6Npa8_000212_000222"
+        },
+        {
+            "filename": "mAuIdwWqau0_000000_000010",
+            "id": "input17_mAuIdwWqau0_000000_000010"
+        },
+        {
+            "filename": "2hOEGWbXn3c_000003_000013",
+            "id": "input18_2hOEGWbXn3c_000003_000013"
+        },
+        {
+            "filename": "CVomytAd7-0_000020_000030",
+            "id": "input19_CVomytAd7-0_000020_000030"
+        },
+        {
+            "filename": "G8unFTBx3b0_000087_000097",
+            "id": "input20_G8unFTBx3b0_000087_000097"
+        },
+        {
+            "filename": "JBz7PUxDyE4_000035_000045",
+            "id": "input21_JBz7PUxDyE4_000035_000045"
+        },
+        {
+            "filename": "2-Wg9UFldCs_000003_000013",
+            "id": "input22_2-Wg9UFldCs_000003_000013"
+        },
+        {
+            "filename": "HcY-0Fq-TUo_000033_000043",
+            "id": "input23_HcY-0Fq-TUo_000033_000043"
+        },
+        {
+            "filename": "SAHCw0f5Jgo_000108_000118",
+            "id": "input24_SAHCw0f5Jgo_000108_000118"
+        },
+        {
+            "filename": "7rPC6p04F0Y_000014_000024",
+            "id": "input25_7rPC6p04F0Y_000014_000024"
+        },
+        {
+            "filename": "UTpl0VRiYs0_000052_000062",
+            "id": "input26_UTpl0VRiYs0_000052_000062"
+        },
+        {
+            "filename": "peRCp2-roOE_000005_000015",
+            "id": "input27_peRCp2-roOE_000005_000015"
+        },
+        {
+            "filename": "2HbcJJT8b9k_000035_000045",
+            "id": "input28_2HbcJJT8b9k_000035_000045"
+        },
+        {
+            "filename": "DauHQApK4po_000023_000033",
+            "id": "input29_DauHQApK4po_000023_000033"
+        },
+        {
+            "filename": "qCFyiSTLlGI_000012_000022",
+            "id": "input30_qCFyiSTLlGI_000012_000022"
+        },
+        {
+            "filename": "R2Md8aSerrg_000000_000010",
+            "id": "input31_R2Md8aSerrg_000000_000010"
+        },
+        {
+            "filename": "98ieFdWqr3E_000165_000175",
+            "id": "input32_98ieFdWqr3E_000165_000175"
+        },
+        {
+            "filename": "sh8fKzClNJ0_000102_000112",
+            "id": "input33_sh8fKzClNJ0_000102_000112"
+        },
+        {
+            "filename": "Oi7uFkc3qQ4_000054_000064",
+            "id": "input34_Oi7uFkc3qQ4_000054_000064"
+        },
+        {
+            "filename": "-leKrFFfyzU_000008_000018",
+            "id": "input35_-leKrFFfyzU_000008_000018"
+        },
+        {
+            "filename": "aXdAu4g7dAA_000000_000010",
+            "id": "input36_aXdAu4g7dAA_000000_000010"
+        },
+        {
+            "filename": "CeQ5f7l-mQQ_000019_000029",
+            "id": "input37_CeQ5f7l-mQQ_000019_000029"
+        },
+        {
+            "filename": "Ds_PO1y9aek_000028_000038",
+            "id": "input38_Ds_PO1y9aek_000028_000038"
+        },
+        {
+            "filename": "TEqJ_1gk3Ro_000040_000050",
+            "id": "input39_TEqJ_1gk3Ro_000040_000050"
+        },
+        {
+            "filename": "4p-0oTBhA-E_000009_000019",
+            "id": "input40_4p-0oTBhA-E_000009_000019"
+        },
+        {
+            "filename": "M2C4q_VgBE0_000127_000137",
+            "id": "input41_M2C4q_VgBE0_000127_000137"
+        },
+        {
+            "filename": "N7Lx0S9eTFA_000047_000057",
+            "id": "input42_N7Lx0S9eTFA_000047_000057"
+        },
+        {
+            "filename": "m1zC0KsNAcU_000000_000010",
+            "id": "input43_m1zC0KsNAcU_000000_000010"
+        },
+        {
+            "filename": "XFNsGFJkBMc_000250_000260",
+            "id": "input44_XFNsGFJkBMc_000250_000260"
+        },
+        {
+            "filename": "CCSCjIP7hiA_000002_000012",
+            "id": "input45_CCSCjIP7hiA_000002_000012"
+        },
+        {
+            "filename": "JApGFHkA-Yk_000083_000093",
+            "id": "input46_JApGFHkA-Yk_000083_000093"
+        },
+        {
+            "filename": "BJNbW-UCKKE_000006_000016",
+            "id": "input47_BJNbW-UCKKE_000006_000016"
+        },
+        {
+            "filename": "ymUozo1-evI_000780_000790",
+            "id": "input48_ymUozo1-evI_000780_000790"
+        },
+        {
+            "filename": "gcaQeqj-NBw_000015_000025",
+            "id": "input49_gcaQeqj-NBw_000015_000025"
+        },
+        {
+            "filename": "e2gxZe1Q-us_000251_000261",
+            "id": "input50_e2gxZe1Q-us_000251_000261"
+        },
+        {
+            "filename": "ORUy17Z9Zx4_000017_000027",
+            "id": "input51_ORUy17Z9Zx4_000017_000027"
+        },
+        {
+            "filename": "3ShSvGhFUcc_000030_000040",
+            "id": "input52_3ShSvGhFUcc_000030_000040"
+        },
+        {
+            "filename": "AehLAPZBSzA_000000_000010",
+            "id": "input53_AehLAPZBSzA_000000_000010"
+        },
+        {
+            "filename": "elad6vOMAFY_000076_000086",
+            "id": "input54_elad6vOMAFY_000076_000086"
+        },
+        {
+            "filename": "qeca1J0NVqo_000533_000543",
+            "id": "input55_qeca1J0NVqo_000533_000543"
+        },
+        {
+            "filename": "9AjtxfocCnM_000006_000016",
+            "id": "input56_9AjtxfocCnM_000006_000016"
+        },
+        {
+            "filename": "i0ccSYMl0vo_000027_000037",
+            "id": "input57_i0ccSYMl0vo_000027_000037"
+        },
+        {
+            "filename": "05ljTAaWnVc_000003_000013",
+            "id": "input58_05ljTAaWnVc_000003_000013"
+        },
+        {
+            "filename": "5Jm0DJqRr2A_000000_000010",
+            "id": "input59_5Jm0DJqRr2A_000000_000010"
+        },
+        {
+            "filename": "Y22t5TNfysQ_000160_000170",
+            "id": "input60_Y22t5TNfysQ_000160_000170"
+        },
+        {
+            "filename": "Lrgs9rwTHuY_000043_000053",
+            "id": "input61_Lrgs9rwTHuY_000043_000053"
+        },
+        {
+            "filename": "8stzRPQRbk8_000058_000068",
+            "id": "input62_8stzRPQRbk8_000058_000068"
+        },
+        {
+            "filename": "dcZviSRcIB0_000068_000078",
+            "id": "input63_dcZviSRcIB0_000068_000078"
+        },
+        {
+            "filename": "HUYq0f2onfQ_000008_000018",
+            "id": "input64_HUYq0f2onfQ_000008_000018"
+        },
+        {
+            "filename": "22glIZfA9R4_000115_000125",
+            "id": "input65_22glIZfA9R4_000115_000125"
+        },
+        {
+            "filename": "Ojwg76QZH48_000000_000010",
+            "id": "input66_Ojwg76QZH48_000000_000010"
+        },
+        {
+            "filename": "JPOodT2-4_8_000000_000010",
+            "id": "input67_JPOodT2-4_8_000000_000010"
+        },
+        {
+            "filename": "3CtEhqybW5M_000327_000337",
+            "id": "input68_3CtEhqybW5M_000327_000337"
+        },
+        {
+            "filename": "17Gjt3E3w80_000089_000099",
+            "id": "input69_17Gjt3E3w80_000089_000099"
+        },
+        {
+            "filename": "9O4nTiq3kYI_000012_000022",
+            "id": "input70_9O4nTiq3kYI_000012_000022"
+        },
+        {
+            "filename": "n0o8KmFf33k_000022_000032",
+            "id": "input71_n0o8KmFf33k_000022_000032"
+        },
+        {
+            "filename": "M9sGALsPg-0_000000_000010",
+            "id": "input72_M9sGALsPg-0_000000_000010"
+        },
+        {
+            "filename": "Uj3FDarLXzY_000014_000024",
+            "id": "input73_Uj3FDarLXzY_000014_000024"
+        },
+        {
+            "filename": "Kop2rIvVh9o_000046_000056",
+            "id": "input74_Kop2rIvVh9o_000046_000056"
+        },
+        {
+            "filename": "zlvX_tY_3nY_000151_000161",
+            "id": "input75_zlvX_tY_3nY_000151_000161"
+        },
+        {
+            "filename": "_hH1yZQf5Og_000000_000010",
+            "id": "input76__hH1yZQf5Og_000000_000010"
+        },
+        {
+            "filename": "nTI5QpazQlo_000020_000030",
+            "id": "input77_nTI5QpazQlo_000020_000030"
+        },
+        {
+            "filename": "rJk8fad5ZnU_000007_000017",
+            "id": "input78_rJk8fad5ZnU_000007_000017"
+        },
+        {
+            "filename": "4qx4mmAipPw_000017_000027",
+            "id": "input79_4qx4mmAipPw_000017_000027"
+        },
+        {
+            "filename": "gozhkpe-sEU_000006_000016",
+            "id": "input80_gozhkpe-sEU_000006_000016"
+        },
+        {
+            "filename": "OHnjPSvtkCQ_000135_000145",
+            "id": "input81_OHnjPSvtkCQ_000135_000145"
+        },
+        {
+            "filename": "10gJjyK2TXQ_000001_000011",
+            "id": "input82_10gJjyK2TXQ_000001_000011"
+        },
+        {
+            "filename": "TrCjxQI2TB4_000000_000010",
+            "id": "input83_TrCjxQI2TB4_000000_000010"
+        },
+        {
+            "filename": "1EdwRves2hY_000005_000015",
+            "id": "input84_1EdwRves2hY_000005_000015"
+        },
+        {
+            "filename": "Oa--Wvh68-w_000198_000208",
+            "id": "input85_Oa--Wvh68-w_000198_000208"
+        },
+        {
+            "filename": "R6N2XOGJ8UY_000124_000134",
+            "id": "input86_R6N2XOGJ8UY_000124_000134"
+        },
+        {
+            "filename": "1ETCFP3Rgko_000009_000019",
+            "id": "input87_1ETCFP3Rgko_000009_000019"
+        },
+        {
+            "filename": "uYoCg9BFcrw_000002_000012",
+            "id": "input88_uYoCg9BFcrw_000002_000012"
+        },
+        {
+            "filename": "fRqFwXo7hks_000167_000177",
+            "id": "input89_fRqFwXo7hks_000167_000177"
+        },
+        {
+            "filename": "UfazpuvxULU_000042_000052",
+            "id": "input90_UfazpuvxULU_000042_000052"
+        },
+        {
+            "filename": "8Wb8JPjcJCo_000028_000038",
+            "id": "input91_8Wb8JPjcJCo_000028_000038"
+        },
+        {
+            "filename": "r-wIkSbrt_Y_000045_000055",
+            "id": "input92_r-wIkSbrt_Y_000045_000055"
+        },
+        {
+            "filename": "VzAaSi_rjHE_000000_000010",
+            "id": "input93_VzAaSi_rjHE_000000_000010"
+        },
+        {
+            "filename": "QP3cjM6o6N8_000017_000027",
+            "id": "input94_QP3cjM6o6N8_000017_000027"
+        },
+        {
+            "filename": "34ksx-DQKBo_000001_000011",
+            "id": "input95_34ksx-DQKBo_000001_000011"
+        },
+        {
+            "filename": "1SpPRDN7HhM_000000_000010",
+            "id": "input96_1SpPRDN7HhM_000000_000010"
+        },
+        {
+            "filename": "cAxBY04KV2c_000002_000012",
+            "id": "input97_cAxBY04KV2c_000002_000012"
+        },
+        {
+            "filename": "wHxBcTJB1F8_000000_000010",
+            "id": "input98_wHxBcTJB1F8_000000_000010"
+        },
+        {
+            "filename": "2XRtxWhF8SI_000027_000037",
+            "id": "input99_2XRtxWhF8SI_000027_000037"
+        },
+        {
+            "filename": "s6neX_K5Pus_000015_000025",
+            "id": "input100_s6neX_K5Pus_000015_000025"
+        },
+        {
+            "filename": "S0qHSQE-wQI_000000_000010",
+            "id": "input101_S0qHSQE-wQI_000000_000010"
+        },
+        {
+            "filename": "A3a01_6GkJ8_000016_000026",
+            "id": "input102_A3a01_6GkJ8_000016_000026"
+        },
+        {
+            "filename": "ognDVWEpuOg_000031_000041",
+            "id": "input103_ognDVWEpuOg_000031_000041"
+        },
+        {
+            "filename": "0LqfsamL864_000098_000108",
+            "id": "input104_0LqfsamL864_000098_000108"
+        },
+        {
+            "filename": "zH2qJbxLkzg_000022_000032",
+            "id": "input105_zH2qJbxLkzg_000022_000032"
+        },
+        {
+            "filename": "Ja69jPcPpbI_000062_000072",
+            "id": "input106_Ja69jPcPpbI_000062_000072"
+        },
+        {
+            "filename": "MyIecl0syug_000073_000083",
+            "id": "input107_MyIecl0syug_000073_000083"
+        },
+        {
+            "filename": "GtRr4H-Q11w_000001_000011",
+            "id": "input108_GtRr4H-Q11w_000001_000011"
+        },
+        {
+            "filename": "OBr7EJSSBdE_000787_000797",
+            "id": "input109_OBr7EJSSBdE_000787_000797"
+        },
+        {
+            "filename": "nDHHn9MxshU_000005_000015",
+            "id": "input110_nDHHn9MxshU_000005_000015"
+        },
+        {
+            "filename": "EbMF9e9v03Y_000000_000010",
+            "id": "input111_EbMF9e9v03Y_000000_000010"
+        },
+        {
+            "filename": "yg-ycnodqe0_000006_000016",
+            "id": "input112_yg-ycnodqe0_000006_000016"
+        },
+        {
+            "filename": "JlhZMH7lKGU_000000_000010",
+            "id": "input113_JlhZMH7lKGU_000000_000010"
+        },
+        {
+            "filename": "TWV8C7B27RM_000077_000087",
+            "id": "input114_TWV8C7B27RM_000077_000087"
+        },
+        {
+            "filename": "RvfXA3_mv1I_000018_000028",
+            "id": "input115_RvfXA3_mv1I_000018_000028"
+        }
+    ],
+    "type": "captions",
+    "info": "dummy",
+    "licenses": "dummy"
+}

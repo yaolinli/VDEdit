@@ -1,0 +1,1 @@
+python extract_Ch_video_embeddings.py --videos_path /home/yaolinli/dataset/EMMAD-EDIT/videos/ --save_path /home/yaolinli/dataset/EMMAD-EDIT/clip_cn_feats/

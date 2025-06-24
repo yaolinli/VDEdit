@@ -1,0 +1,1 @@
+ python extract_En_video_embeddings.py --split test --videos_path /home/yaolinli/dataset/VATEX-EDIT/videos/ --save_path /home/yaolinli/dataset/VATEX-EDIT/clip_en_feats/

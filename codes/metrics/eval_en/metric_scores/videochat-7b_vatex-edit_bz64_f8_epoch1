@@ -1,0 +1,54 @@
+# global_len_dele 20
+# global_len_add 20
+# global_attr_add 20
+# global_attr_dele 20
+# local_len_add 20
+# local_len_dele 20
+# local_attr_add 20
+# all 140
+==========================================
+===> 7_all.json
+Length command acc: 0.88
+Attr appear acc: 
+total 0.82 
+POS appear acc: 0.88
+=======================================
+evaluate ../results/videochat-7b_vatex-edit_bz64_f8_epoch1/all.json ...
+=======================================
+loading annotations into memory...
+0:00:00.000584
+creating index...
+index created!
+Loading and preparing results...     
+DONE (t=0.00s)
+creating index...
+index created!
+tokenization...
+setting up scorers...
+computing Bleu score...
+{'testlen': 1991, 'reflen': 2006, 'guess': [1991, 1851, 1711, 1571], 'correct': [1299, 785, 520, 386]}
+ratio: 0.9925224327013995
+Bleu_1: 0.648
+Bleu_2: 0.522
+Bleu_3: 0.435
+Bleu_4: 0.376
+computing Rouge score...
+ROUGE_L: 0.562
+computing CIDEr score...
+CIDEr: 2.954
+Bleu_1: 0.648
+Bleu_2: 0.522
+Bleu_3: 0.435
+Bleu_4: 0.376
+ROUGE_L: 0.562
+CIDEr: 2.954
+SARI: 46.4, KEEP: 0.551, ADD: 0.098, DELETE: 0.743
+PPL 97.9
+loding cache feats ........
+using predefined IDF dict...
+calculating EMScore scores...
+computing text embedding.
+computing greedy matching, video as ground truth.
+done in 1.11 seconds, 126.69 sentences/sec
+EMScore(X,V) correlation --------------------------------------
+EMScore(X,V) -> full_F: 29.0

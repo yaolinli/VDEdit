@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python byte-code / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Compiled C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# IDE / editor folders
+.idea/
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/ 
