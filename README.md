@@ -5,6 +5,8 @@ This is the official PyTorch implementation for the [paper](https://arxiv.org/ab
 
 We propose a novel Video Description Editing (VDEdit) task to automatically revise an existing video description guided by flexible user requests. To facilitate the VDEdit task, we automatically construct an open-domain dataset namely VATEX-EDIT and manually collect an e-commerce benchmark dataset called EMMAD-EDIT.
 
+![image](https://github.com/user-attachments/assets/b5e37c2a-a2c5-466d-972b-05d860c30abb)
+
 
 
 ## Datasets
