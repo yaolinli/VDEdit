@@ -1,5 +1,5 @@
 # VDEdit
-This is the official PyTorch implementation for the [paper](https://arxiv.org/abs/2305.08389):
+This is the official PyTorch implementation for the ACM MM2024 [paper](https://arxiv.org/abs/2305.08389):
 
 ***Edit As You Wish: Video Description Editing with Multi-grained Commands***
 
